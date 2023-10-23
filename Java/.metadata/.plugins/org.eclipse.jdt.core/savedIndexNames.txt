@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\braph\Desktop\Portfolio\Java\.metadata\.plugins\org.eclipse.jdt.core
+75234072.index
